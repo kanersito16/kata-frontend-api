@@ -1,0 +1,29 @@
+{
+    "top_artistas_mexicanos": [
+      {
+        "nombre": "Maná",
+        "genero": "Rock en Español",
+        "numero_reproducciones": 5000000,
+        "url_imagen": "https://lh3.googleusercontent.com/KfS7bUmfaXPVuwaaLDrwQuOT-OuoL2T1hGCgU1GkNhpUYXw0BvfFhtMnx4AqfIoLN1sKPLVlqWOrEAGc=w544-h544-l90-rj"
+      },
+      {
+        "nombre": "Reik",
+        "genero": "Pop",
+        "numero_reproducciones": 4500000,
+        "url_imagen": "https://www.debate.com.mx/__export/1622075770132/sites/debate/img/2021/05/26/reik_crop1622075755582.jpg_1902800913.jpg"
+      },
+      {
+        "nombre": "Café Tacvba",
+        "genero": "Rock Alternativo",
+        "numero_reproducciones": 4000000,
+        "url_imagen": "https://indierocks.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/bfi_thumb/Cafe-Tacvba-por-Nacho-de-la-Garza-ca0zkmggzwdx9f5kt8agg6w52sn8lp7r7bjz3abfsov3mkt6s1vo75urlq483k.jpg"
+      },
+      {
+        "nombre": "Julieta Venegas",
+        "genero": "Pop/Rock",
+        "numero_reproducciones": 3500000,
+        "url_imagen": "https://www.improntamusic.com/wp-content/uploads/2018/08/julieta-venegas-1.jpg"
+      }
+    ]
+  }
+  

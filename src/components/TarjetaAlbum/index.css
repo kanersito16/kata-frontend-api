@@ -1,0 +1,14 @@
+
+.card{
+    background: #000000 !important;
+    color: white !important;
+}
+
+.bg-black {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.card:hover {
+    background-color: #313030 !important; /* Cambia el color de fondo a rojo cuando se pasa el mouse por encima */
+  }
+  
